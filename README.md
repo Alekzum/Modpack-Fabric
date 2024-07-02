@@ -2,10 +2,9 @@
 This branch contains a single update checker.
 
 # Информация о модпаке
-Я просто увидел [этот](https://modrinth.com/mod/modpack-update-checker) мод и подумал
-> А почему бы и нет
+Я просто увидел [этот](https://modrinth.com/mod/modpack-update-checker) мод и подумал: "А почему бы и нет", и теперь тут обновился README.md, а также я потихонечку учусь в Markdown.
 
-И теперь тут обновился README.md, а также я потихонечку учусь в Markdown.
+Модпак на Fabric, используется Fabric Loader версии 0.15.11 для майнкрафта версии 1.20.6
 
 # Включенные моды
 В этом модпаке 52 (писят два) мода. 
