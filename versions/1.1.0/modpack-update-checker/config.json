@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 7,
+  "currentVersion": "1.1",
+  "modpackName": "For fabric 1.21",
+  "modpackAuthor": "A1ekzfame",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://raw.githubusercontent.com/Alekzum/Modpack-Fabric-1-20-6/",
+  "advanced": {
+    "addButton": true,
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": [],
+    "buttonXOffset": 24,
+    "buttonYOffset": -24
+  }
+}
