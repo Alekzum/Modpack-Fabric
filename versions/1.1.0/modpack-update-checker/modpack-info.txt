@@ -1,17 +1,14 @@
-# Some info
-Hello from https://a1ekzfame.t.me :3
-
+## Some info
 Current Fabric version: 1.21
 
+## Info about mods (comparing to 1.0.1)
 
-# Info about mods (comparing to 1.0.1)
-
-## Removed mods
+### Removed mods
 - [Command Block IDE](https://modrinth.com/mod/command-block-ide)
 - [Not Enough Crashers](https://modrinth.com/mod/notenoughcrashes)
 - [Step Up](https://modrinth.com/mod/stepup)
 
-## Added mods
+### Added mods
 - [Audio Player](https://modrinth.com/mod/audioplayer)
 - [BactroMod](https://modrinth.com/mod/bactromod)
 - [BadOptimizations](https://modrinth.com/mod/badoptimizations)
@@ -120,3 +117,6 @@ Current Fabric version: 1.21
 - [Xaero's Minimap](https://modrinth.com/mod/Xaeros-Minimap)
 - [YetAnotherConfigLib](https://modrinth.com/mod/YACL)
 - [Zoomify](https://modrinth.com/mod/Zoomify)
+
+## Something else
+Hello from https://a1ekzfame.t.me :3
