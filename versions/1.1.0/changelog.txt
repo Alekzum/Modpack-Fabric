@@ -114,7 +114,7 @@
 - [Step Up Again](https://modrinth.com/mod/stepupagain)
 - [Suggestion Tweaker](https://modrinth.com/mod/Suggestion-Tweaker)
 - [TCD Commons API](https://modrinth.com/mod/tcdcommons)
-- [Tree Harverseter](https://modrinth.com/mod/tree-harvester
+- [Tree Harverseter](https://modrinth.com/mod/tree-harvester)
 - [Xaero's World Map](https://modrinth.com/mod/Xaeros-World-Map)
 - [Xaero's Minimap](https://modrinth.com/mod/Xaeros-Minimap)
 - [YetAnotherConfigLib](https://modrinth.com/mod/YACL)
