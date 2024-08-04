@@ -1,5 +1,5 @@
 # Информация о модпаке 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Alekzum/Modpack-Fabric/blob/main/README.md)
 
 Я просто увидел [этот](https://modrinth.com/mod/modpack-update-checker) мод и подумал: "А почему бы и нет", и теперь тут обновился README.md, а также я потихонечку учусь в Markdown.
 
