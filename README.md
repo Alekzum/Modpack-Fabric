@@ -3,7 +3,7 @@
 
 I just saw [this mod](https://modrinth.com/mod/modpack-update-checker) and thought about it: "And why not", and now it has been updated README.md and I also study a little bit at Markdown.
 
-# What should I do with the files?
+## What should I do with the files?
 - Select the desired version (for example 1.1.0)
 - Download the `mods` folder from here (somehow, good luck)
 - We shove it into the root folder of your minecraft (for me it's `%appdata%\.minecraft`)
