@@ -1,5 +1,5 @@
 # Information about the modpack 
-[![ru-ru](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Alekzum/Modpack-Fabric/blob/master/README.ru-ru.md)
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](https://github.com/Alekzum/Modpack-Fabric/blob/main/README.ru.md)
 
 I just saw [this mod](https://modrinth.com/mod/modpack-update-checker) and thought about it: "And why not", and now it has been updated README.md and I also study a little bit at Markdown.
 
